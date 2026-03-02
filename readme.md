@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vithor Dos Santos Santa Rosa</h1>
 <h3 align="center">Acadêmico de Ciência da Computação</h3>
 
-- 💬 Ask me about **C,java**
+- 💬 Ask me about **Ml,Python,Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
